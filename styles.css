@@ -25,6 +25,7 @@
 
   aside {
     border-top: solid 1px black;
+    font-size: 0.75em;
     color: #413b3bea;
   }
 }
