@@ -10,17 +10,21 @@
   h4,
   h5,
   h6 {
-    text-decoration: none;
+    font-size: 1.5em;
     font-weight: bold;
-    font-size: 2rem;
+    text-decoration: none;
   }
 
   .heading {
     font-weight: bolder;
-    text-decoration: overline;
   }
 
   p {
     text-align: left;
+  }
+
+  aside {
+    border-top: solid 1px black;
+    color: #413b3bea;
   }
 }
